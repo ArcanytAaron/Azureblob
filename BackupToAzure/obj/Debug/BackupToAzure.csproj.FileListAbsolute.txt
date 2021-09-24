@@ -1,0 +1,81 @@
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\BackupToAzure.exe.config
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\BackupToAzure.exe
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\BackupToAzure.pdb
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\obj\Debug\BackupToAzure.csproj.AssemblyReference.cache
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\obj\Debug\BackupToAzure.Form1.resources
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\obj\Debug\BackupToAzure.Properties.Resources.resources
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\obj\Debug\BackupToAzure.csproj.GenerateResource.cache
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\obj\Debug\BackupToAzure.csproj.CoreCompileInputs.cache
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\obj\Debug\BackupToAzure.exe
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\obj\Debug\BackupToAzure.pdb
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\Azure.Core.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Buffers.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Memory.Data.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Memory.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Text.Json.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.ValueTuple.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\Azure.Core.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Buffers.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Memory.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Memory.Data.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Text.Json.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\bin\Debug\System.ValueTuple.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\Backup to Azure\BackupToAzure\BackupToAzure\obj\Debug\BackupToAzure.csproj.CopyComplete
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\BackupToAzure.exe.config
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\BackupToAzure.exe
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\BackupToAzure.pdb
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Azure.Core.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Azure.Storage.Common.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Buffers.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Memory.Data.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Memory.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Text.Json.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.ValueTuple.dll
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Azure.Core.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Azure.Storage.Blobs.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Azure.Storage.Common.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Buffers.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Memory.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Memory.Data.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Text.Json.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\bin\Debug\System.ValueTuple.xml
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\obj\Debug\BackupToAzure.csproj.AssemblyReference.cache
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\obj\Debug\BackupToAzure.Form1.resources
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\obj\Debug\BackupToAzure.Properties.Resources.resources
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\obj\Debug\BackupToAzure.csproj.GenerateResource.cache
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\obj\Debug\BackupToAzure.csproj.CoreCompileInputs.cache
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\obj\Debug\BackupToAzure.csproj.CopyComplete
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\obj\Debug\BackupToAzure.exe
+C:\Users\eshop\Documents\Work Files\Reimaster\Source Codes\BackupToAzureDemo\BackupToAzure\obj\Debug\BackupToAzure.pdb
